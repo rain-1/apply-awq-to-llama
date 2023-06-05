@@ -3,7 +3,7 @@
 set -ex
 
 WORKING_DIRECTORY=/tmp/apply-awq-to-llama
-LLAMA_DIRECTORY=/tmp/apply-awq-to-llama/lamma-model/
+LLAMA_DIRECTORY=/tmp/apply-awq-to-llama/llama-model/
 
 #rm -rf "$WORKING_DIRECTORY"
 mkdir -p "$WORKING_DIRECTORY"
